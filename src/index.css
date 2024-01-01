@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Neue Montreal";
+  src: local("PPNeueMontreal-Book"),
+    url("./fonts/PPNeueMontreal-Book.otf") format("opentype");
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding:0 ;
+  font-family: 'Neue Montreal';
+}
+
+body {
+  background: #010101;
+}
+
+h1, h4, p, a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.btn{
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: #01FE03;
+  color: #010101;
+  border: 1px solid #01FE03;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.btn-light {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: transparent;
+  color: #01FE03;
+  border: 1px solid #01FE03;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.btn:hover {
+  background: transparent;
+  color: #01FE03;
+  transition: 0.3s;
+}
+
+.btn-light:hover {
+  color: white;
+  border: 1px solid white;
+  transition: 0.3s;
+}
