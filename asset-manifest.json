@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jmfrnsn.github.io/static/css/main.cf17d920.css",
-    "main.js": "/jmfrnsn.github.io/static/js/main.a7444f10.js",
-    "static/media/glasscubeimg.png": "/jmfrnsn.github.io/static/media/glasscubeimg.2768cd929d4055c29f40.png",
-    "static/media/PPNeueMontreal-SemiBolditalic.otf": "/jmfrnsn.github.io/static/media/PPNeueMontreal-SemiBolditalic.ef9ee1837108053b9463.otf",
-    "static/media/PPNeueMontreal-Medium.otf": "/jmfrnsn.github.io/static/media/PPNeueMontreal-Medium.0f34f4714f1b26e0dedc.otf",
-    "static/media/PPNeueMontreal-Bold.otf": "/jmfrnsn.github.io/static/media/PPNeueMontreal-Bold.34a4eb1a093eb36b2f46.otf",
-    "static/media/PPNeueMontreal-Book.otf": "/jmfrnsn.github.io/static/media/PPNeueMontreal-Book.cd21cf351f4da50cf75d.otf",
-    "static/media/PPNeueMontreal-Italic.otf": "/jmfrnsn.github.io/static/media/PPNeueMontreal-Italic.bb9c502e17d3b9edb369.otf",
-    "static/media/PPNeueMontreal-Thin.otf": "/jmfrnsn.github.io/static/media/PPNeueMontreal-Thin.113878d75d11299845e2.otf",
-    "index.html": "/jmfrnsn.github.io/index.html",
-    "main.cf17d920.css.map": "/jmfrnsn.github.io/static/css/main.cf17d920.css.map",
-    "main.a7444f10.js.map": "/jmfrnsn.github.io/static/js/main.a7444f10.js.map"
+    "main.css": "/portfolio/static/css/main.bc773cba.css",
+    "main.js": "/portfolio/static/js/main.5ef22b2d.js",
+    "static/media/glasscubeimg.png": "/portfolio/static/media/glasscubeimg.2768cd929d4055c29f40.png",
+    "static/media/PPNeueMontreal-SemiBolditalic.otf": "/portfolio/static/media/PPNeueMontreal-SemiBolditalic.ef9ee1837108053b9463.otf",
+    "static/media/PPNeueMontreal-Medium.otf": "/portfolio/static/media/PPNeueMontreal-Medium.0f34f4714f1b26e0dedc.otf",
+    "static/media/PPNeueMontreal-Bold.otf": "/portfolio/static/media/PPNeueMontreal-Bold.34a4eb1a093eb36b2f46.otf",
+    "static/media/PPNeueMontreal-Book.otf": "/portfolio/static/media/PPNeueMontreal-Book.cd21cf351f4da50cf75d.otf",
+    "static/media/PPNeueMontreal-Italic.otf": "/portfolio/static/media/PPNeueMontreal-Italic.bb9c502e17d3b9edb369.otf",
+    "static/media/PPNeueMontreal-Thin.otf": "/portfolio/static/media/PPNeueMontreal-Thin.113878d75d11299845e2.otf",
+    "index.html": "/portfolio/index.html",
+    "main.bc773cba.css.map": "/portfolio/static/css/main.bc773cba.css.map",
+    "main.5ef22b2d.js.map": "/portfolio/static/js/main.5ef22b2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf17d920.css",
-    "static/js/main.a7444f10.js"
+    "static/css/main.bc773cba.css",
+    "static/js/main.5ef22b2d.js"
   ]
 }
